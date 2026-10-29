@@ -1,0 +1,55 @@
+{
+  "slug": "kokocia",
+  "name": "Kavinė Kokočia",
+  "city": "Kaunas",
+  "address": "R. Kalantos g. 131, Kaunas",
+  "phone": "+37067621517",
+  "facebook": "https://www.facebook.com/657995990976583/",
+  "instagram": "https://www.instagram.com/kavine.kokocia/",
+  "wolt": "",
+  "menu": "",
+  "lunch": "https://www.facebook.com/657995990976583/",
+  "reservation": "",
+  "cuisine": "Namų virtuvė",
+  "description": "Sotūs pietūs Petrašiūnuose ir maistas Jūsų šventėms.",
+  "sources": [
+    "https://www.meniu.lt/vieta/kokocia",
+    "https://www.findglocal.com/LT/Kaunas/657995990976583/Kavin%C4%97-%22Koko%C4%8Dia%22",
+    "https://restaurantguru.com/Kokocia-Kaunas",
+    "https://imoniukatalogai.lt/en/travelling-recreation-pastime-entertainment/cafes-bars-restaurants?page=76&shs_term_node_tid_depth=All"
+  ],
+  "photos": [
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/kokocia/assets/food-1.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/10/8284/76ff728d5655bf16f8899e3a71c5142843065bdd.jpeg",
+      "alt": "Patiekalas su bulvių koše ir daržovėmis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/kokocia/assets/food-2.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/10/8283/a8cded4f060143acc9f8ca9cdb23f6ad8603564f.jpeg",
+      "alt": "Kepti užkandžiai su šviežiomis daržovėmis"
+    },
+    {
+      "path": "/workspace/sites/restaurant-batch6/dist/kokocia/assets/food-3.webp",
+      "source": "https://static.meniu.lt/uploads/restaurant/photo/10/8285/ed2044923850000322d534136c0296a51b092df7.jpeg",
+      "alt": "Omletas su salotomis"
+    },
+    {
+      "path": "assets/interjeras.png",
+      "source": "User-uploaded image(20261024-201209).png",
+      "alt": "Kavinės Kokočia interjeras"
+    }
+  ],
+  "story_title": "Pietums ir progai susiburti.",
+  "story": "Kokočios virtuvėje vietos yra ir kasdieniams pietums, ir šventiniam stalui. Ruošiame banketus bei furšetus, taip pat patiekalus išsivežti į Jūsų šventės vietą.",
+  "welcome_text": "Atsinaujinusi kavinė Kokočia Jus kviečia! Šilta ir draugiška aplinka, jaukus interjeras.",
+  "food_photo_edit": "2026-10-24: Built-in imagegen edited the three original Meniu.lt photographs for warmer daylight and appetizing home-style presentation, preserving recognizable dishes. Edited versions include reconstructed details and are not new documentary photographs.",
+  "update_20261029": {
+    "photos": [
+      "assets/cepelinas.webp",
+      "assets/kotletas.webp",
+      "assets/silke.webp"
+    ],
+    "note": "User-supplied food photos enhanced with imagegen; reconstructed details. Added table illustration and footer invitation."
+  }
+}
